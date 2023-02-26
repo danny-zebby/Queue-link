@@ -15,9 +15,6 @@ public:
     Queue();
     // Default constructors
 
-    explicit Queue(int max);
-    // Parameterized class constructor.
-
     ~Queue();
     // Class destructor.
 
